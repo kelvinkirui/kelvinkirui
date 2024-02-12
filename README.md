@@ -9,3 +9,5 @@ Passionate IT enthusiast who loves solving problems and enjoys everything relate
 
 
 <h3 align="left">Connect with me:</h3>
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kelvinkirui)
+
